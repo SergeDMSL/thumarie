@@ -104,8 +104,7 @@ var PUZZLES = [
     blocks: [
       { type: 'mono', value: '1907\nBROWNSEA ISLAND\n20 JONGENS' },
       { type: 'text', value: 'en:' },
-      { type: 'mono', value: '1908\nEEN BOEK\nEEN WERELDWIJDE BEWEGING' },
-      { type: 'text', value: 'Eén persoon verbindt beide blokken.\nZijn familienaam bestaat uit twee delen met een koppelteken.\nWij zoeken uitsluitend het tweede deel.' }
+      { type: 'mono', value: '1908\nEEN BOEK\nEEN WERELDWIJDE BEWEGING' }
     ],
     question: 'We zoeken het 2de deel.',
     aliases: ['POWELL', 'BADENPOWELL'],
