@@ -107,7 +107,7 @@ var PUZZLES = [
       { type: 'mono', value: '1908\nEEN BOEK\nEEN WERELDWIJDE BEWEGING' },
       { type: 'text', value: 'Eén persoon verbindt beide blokken.\nZijn familienaam bestaat uit twee delen met een koppelteken.\nWij zoeken uitsluitend het tweede deel.' }
     ],
-    question: 'Welk tweede deel van de familienaam zoeken we?',
+    question: 'We zoeken het 2de deel.',
     aliases: ['POWELL', 'BADENPOWELL'],
     canonical: 'POWELL',
     hints: [
